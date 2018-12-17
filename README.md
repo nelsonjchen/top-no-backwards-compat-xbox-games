@@ -31,5 +31,12 @@ The user scores have the `.` removed so it's just an `int` and more like `0-100`
 
 ## The sorted list of popular games on 360 but aren't backwards compatible.
 
-We try to use user score here.
+Take a look at [ at the output file](out.txt)
 
+```cmd
+xsv join --no-case title metacritic.csv title xbox.csv --left | xsv sort -R -s 4,user_score | xsv table > out.txt
+```
+
+Look for stuff without an entry in the 4th column. After all that, it'll be sorted by user score.
+
+This is obviously not 100% accurate. MGS2 and MGS3 HD is supported on Xbox One but it's definitely all over the place in naming.
