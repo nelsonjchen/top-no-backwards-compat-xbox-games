@@ -10,6 +10,21 @@ Anyway, let's take a look at some 360-exclusive games. What won't run on a Xbox 
 
 This little toolset requires Python 3.6 and Rust to be installed. But I'll leave an occasionally updated `csv` around here.
 
+# THE DATA
+
+You might be here for just that. Here's a table. 
+
+Take a look at the output files for :
+
+* [Users](out_user.txt)
+* [Critics](out_critic.txt)
+
+Look for stuff without an entry in the 4th column. It's way down. After all that, it'll be sorted by user score.
+
+-------
+
+Anything below here is for regeneration.
+
 # Prerequisites
 
 1. Install `scrapy` from the Git Repository. (e.g. `pip install git+https://github.com/scrapy/scrapy`) This is required otherwise Windows CSVs will have double newlines. If not Windows, simply install from pip with `pip install scrapy`. (IMO, I think `scrapy`'s release process might be a bit weird!)
@@ -36,12 +51,5 @@ The user scores have the `.` removed so it's just an `int` and more like `0-100`
 xsv join --no-case title metacritic.csv title xbox.csv --left | xsv sort -R -s 4,user_score | xsv table > out_user.txt
 xsv join --no-case title metacritic.csv title xbox.csv --left | xsv sort -R -s 4,critic_score | xsv table > out_critic.txt
 ```
-
-Take a look at the output files for :
-
-* [Users](out_user.txt)
-* [Critics](out_critic.txt)
-
-Look for stuff without an entry in the 4th column. After all that, it'll be sorted by user score.
 
 This is obviously not 100% accurate. MGS2 and MGS3 HD is supported on Xbox One but it's definitely all over the place in naming.
