@@ -21,6 +21,8 @@ Take a look at the output files for :
 
 Look for stuff without an entry in the 4th column. It's way down. After all that, it'll be sorted by user score.
 
+**There are inaccuracies and non-matches. Please use only as starting point. Eg. GTA IV or Grand Theft Auto IV is compatible, but the differing naming hurts.** 
+
 -------
 
 Anything below here is for regeneration.
