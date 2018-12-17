@@ -3,7 +3,7 @@ import scrapy
 
 class MetacriticXbox360GameScoreScraper(scrapy.Spider):
     name = 'blogspider'
-    start_urls = ['https://www.metacritic.com/g00/browse/games/score/metascore/all/xbox360/filtered']
+    start_urls = ['https://www.metacritic.com/browse/games/score/metascore/all/xbox360/filtered?page=0']
 
     def parse(self, response):
         body = response.css('#main > div.module.filter.score_filter > div.module.products_module.list_product_condensed_module > div.body')
