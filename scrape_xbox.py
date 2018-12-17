@@ -12,6 +12,7 @@ class XboxBackwardsCompatGameScraper(scrapy.Spider):
             title = title.replace('®', '')
             title = title.replace('ñ', '')
             title = title.replace('™', '')
+            title = title.strip()
             yield {
                 'title': title,
             }

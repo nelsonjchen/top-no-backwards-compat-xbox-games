@@ -8,6 +8,7 @@ Word Puzzle                                                               tbd   
 Wolfenstein 3D                                                            82          66            Wolfenstein 3D
 Virtua Fighter 5 Final Showdown                                           79          81            Virtua Fighter 5 Final Showdown
 Vanquish                                                                  92          84            VANQUISH
+Undertow                                                                  76          76            Undertow
 Unbound Saga                                                              tbd         51            Unbound Saga
 Ugly Americans: Apocalypsegeddon                                          64          45            Ugly Americans: Apocalypsegeddon
 Tropico 4                                                                 74          77            Tropico 4
@@ -30,9 +31,11 @@ The Darkness II                                                           75    
 The Darkness                                                              81          82            The Darkness
 The Cave                                                                  78          70            The Cave
 Tekken Tag Tournament 2                                                   76          83            Tekken Tag Tournament 2
+Tecmo Bowl Throwback                                                      73          67            Tecmo Bowl Throwback
 Tekken 6                                                                  71          80            TEKKEN 6
 Supreme Commander 2                                                       71          75            Supreme Commander 2
 Super Meat Boy                                                            80          90            Super Meat Boy
+Super Contra                                                              63          61            Super Contra
 Strania                                                                   tbd         66            Strania
 Star Wars: The Force Unleashed II                                         57          61            Star Wars: The Force Unleashed II
 Star Wars: The Force Unleashed                                            67          73            Star Wars: The Force Unleashed
@@ -69,6 +72,7 @@ Scarygirl                                                                 73    
 Samurai Shodown II                                                        tbd         72            Samurai Shodown II
 Saints Row IV                                                             66          81            Saints Row IV
 Saints Row 2                                                              82          81            Saints Row 2
+Saints Row                                                                75          81            Saints Row
 Sacred Citadel                                                            62          63            Sacred Citadel
 Sacred 3                                                                  40          51            Sacred 3
 Street Fighter IV                                                         73          93            STREET FIGHTER IV
@@ -130,6 +134,7 @@ Mass Effect                                                               87    
 Mafia II                                                                  79          74            Mafia II
 Mad Tracks                                                                78          62            Mad Tracks
 MX vs. ATV Reflex                                                         63          75            MX vs. ATV Reflex
+Moon Diver                                                                tbd         61            MOON DIVER
 Metal Gear Rising: Revengeance                                            79          82            METAL GEAR RISING: REVENGEANCE
 Mega Man 9                                                                83          82            MEGA MAN 9
 Mega Man 10                                                               78          79            MEGA MAN 10
@@ -152,6 +157,7 @@ Jurassic Park: The Game                                                   37    
 Joy Ride Turbo                                                            79          67            Joy Ride Turbo
 Joust                                                                     73          68            Joust
 Joe Danger 2: The Movie                                                   72          82            Joe Danger 2: The Movie
+Jewel Quest                                                               tbd         68            Jewel Quest
 Jetpac Refuelled                                                          74          73            Jetpac Refuelled
 Jet Set Radio                                                             76          70            Jet Set Radio
 Iron Brigade                                                              77          82            Iron Brigade
@@ -168,7 +174,10 @@ Hardwood Hearts                                                           74    
 Hardwood Backgammon                                                       66          62            Hardwood Backgammon
 Hard Corps: Uprising                                                      71          75            Hard Corps: Uprising
 Halo: Reach                                                               81          91            Halo: Reach
+Halo: Combat Evolved Anniversary                                          82          82            Halo: Combat Evolved Anniversary
 Halo Wars                                                                 73          82            Halo Wars
+Halo 4                                                                    70          87            Halo 4
+Halo 3                                                                    79          94            Halo 3
 Gyruss                                                                    tbd         56            Gyruss
 Gyromancer                                                                65          75            Gyromancer
 Guwange                                                                   86          76            Guwange
@@ -269,10 +278,12 @@ Call of Duty 4: Modern Warfare                                            85    
 Call of Duty 3                                                            65          82            Call of Duty 3
 Call of Duty 2                                                            82          89            Call of Duty 2
 Crystal Defenders                                                         62          52            CRYSTAL DEFENDERS
+Burnout Revenge                                                           82          89            Burnout Revenge
 Burnout Paradise                                                          70          88            Burnout Paradise
 Brave: The Video Game                                                     60          65            Brave: The Video Game
 Brain Challenge                                                           56          54            Brain Challenge
 Braid                                                                     85          93            Braid
+Borderlands 2                                                             83          89            Borderlands 2
 Borderlands                                                               82          84            Borderlands
 Boom Boom Rocket                                                          61          69            Boom Boom Rocket
 Blue Dragon                                                               79          79            Blue Dragon
@@ -295,6 +306,7 @@ Batman: Arkham Origins                                                    75    
 Band of Bugs                                                              60          68            Band of Bugs
 Babel Rising                                                              34          51            Babel Rising
 Bayonetta                                                                 81          90            BAYONETTA
+Axel & Pixel                                                              75          72            Axel & Pixel
 AstroPop                                                                  54          78            Astropop
 Asteroids & Deluxe                                                        50          55            Asteroids & Deluxe
 Assault Heroes 2                                                          53          75            Assault Heroes 2
@@ -309,18 +321,6 @@ ARKANOID Live!                                                            36    
 A World of Keflings                                                       66          77            A World of Keflings
 A Kingdom for Keflings                                                    69          78            A Kingdom for Keflings
 0 Day Attack on Earth                                                     45          41            0 day Attack on Earth
-Undertow                                                                  76          76             Undertow
-Tecmo Bowl Throwback                                                      73          67             Tecmo Bowl Throwback
-Super Contra                                                              63          61             Super Contra
-Saints Row                                                                75          81             Saints Row
-Moon Diver                                                                tbd         61             MOON DIVER
-Jewel Quest                                                               tbd         68             Jewel Quest
-Halo: Combat Evolved Anniversary                                          82          82             Halo: Combat Evolved Anniversary
-Halo 4                                                                    70          87             Halo 4
-Halo 3                                                                    79          94             Halo 3
-Burnout Revenge                                                           82          89             Burnout Revenge
-Borderlands 2                                                             83          89             Borderlands 2
-Axel & Pixel                                                              75          72             Axel & Pixel
 Pinball FX 2: Marvel Pinball - Vengeance and Virtue                       tbd         84            
 Zero D Beat Drop                                                          tbd         80            
 Bust-A-Move Live!                                                         tbd         78            
@@ -985,8 +985,8 @@ F1 2011                                                                   71    
 Prince of Persia Classic                                                  71          82            
 Magic: The Gathering - Duels of the Planeswalkers 2013                    71          80            
 WWE SmackDown vs. Raw 2009                                                71          79            
-Lost Planet: Extreme Condition                                                                     71  79  
-Major League Baseball 2K7                                             71  79  
+Lost Planet: Extreme Condition                                            71          79            
+Major League Baseball 2K7                                                71  79  
 WWE All Stars                                                         71  75  
 CAPSIZED                                                              71  74  
 Amped 3                                                               71  72  
