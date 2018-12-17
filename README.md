@@ -31,11 +31,16 @@ The user scores have the `.` removed so it's just an `int` and more like `0-100`
 
 ## The sorted list of popular games on 360 but aren't backwards compatible.
 
-Take a look at [ at the output file](out.txt)
 
 ```cmd
-xsv join --no-case title metacritic.csv title xbox.csv --left | xsv sort -R -s 4,user_score | xsv table > out.txt
+xsv join --no-case title metacritic.csv title xbox.csv --left | xsv sort -R -s 4,user_score | xsv table > out_user.txt
+xsv join --no-case title metacritic.csv title xbox.csv --left | xsv sort -R -s 4,critic_score | xsv table > out_critic.txt
 ```
+
+Take a look at the output files for :
+
+* [Users](out_user.txt)
+* [Critics](out_critic.txt)
 
 Look for stuff without an entry in the 4th column. After all that, it'll be sorted by user score.
 
